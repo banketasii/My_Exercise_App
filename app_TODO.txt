@@ -1,0 +1,13 @@
+@Completed
+
+
+@Incomplete
+* Add landing page
+* Add exercises page that lists all exercises
+
+Each exercise has:
+* Date
+* Type
+* Distance/# of sets
+* Time/# reps in each set
+* Place
